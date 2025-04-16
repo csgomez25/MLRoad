@@ -1,3 +1,7 @@
 log/*
 build/*
 install/*
+
+../yolov8n.pt
+
+.vscode
